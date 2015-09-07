@@ -1,1 +1,2 @@
 zawartosc pliku testowego
+nowy wiersz
