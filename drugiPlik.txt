@@ -1,1 +1,2 @@
 drugi plik
+drugi plik zmieniony w nowyBranch
